@@ -80,18 +80,19 @@ cv2.destroyAllWindows()
 ## Output:
 ### Input Grayscale Image and Color Image
 
-![Screenshot 2024-03-10 192938](https://github.com/premalatha-sureshbabu/Histogram-of-an-images/assets/120620842/33ef503c-2ac2-4837-b296-4116f8f803d9)
+![Screenshot 2024-03-20 114119](https://github.com/premalatha-sureshbabu/Histogram-of-an-images/assets/120620842/1e4bae86-914d-4f2f-8d01-85e7aa475836)
+
 
 ### Histogram of Grayscale Image and any channel of Color Image
 
-![Screenshot 2024-03-12 102721](https://github.com/premalatha-sureshbabu/Histogram-of-an-images/assets/120620842/8af5eb58-65ab-46b2-845e-36be7f8cd901)
+![Screenshot 2024-03-20 114329](https://github.com/premalatha-sureshbabu/Histogram-of-an-images/assets/120620842/cd4d453c-f8f9-46f4-910c-935f2e0fb0cb)
 
-![Screenshot 2024-03-12 102740](https://github.com/premalatha-sureshbabu/Histogram-of-an-images/assets/120620842/902d045a-a3dc-4d75-9f1c-2059cac663b8)
+![Screenshot 2024-03-20 114340](https://github.com/premalatha-sureshbabu/Histogram-of-an-images/assets/120620842/bcf06fea-77ac-4607-bc8e-6544bf27831d)
 
 
 ### Histogram Equalization of Grayscale Image.
 
-![Screenshot 2024-03-12 102434](https://github.com/premalatha-sureshbabu/Histogram-of-an-images/assets/120620842/bf7aafa7-d9b9-4f86-9926-9ef6c9d15c78)
+![Screenshot 2024-03-20 114235](https://github.com/premalatha-sureshbabu/Histogram-of-an-images/assets/120620842/8b3a4c08-f057-4805-849d-f47154b0872d)
 
 
 ## Result: 
